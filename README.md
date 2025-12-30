@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Marija 👋
 
-<!--
-**MarijaEric5122/MarijaEric5122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student at RAF, interested in software development.
 
-Here are some ideas to get you started:
+### 🔧 Tech stack
+- Java, Spring
+- JavaScript (Vue, React, Angular)
+- C, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Selected projects
+- **Napredno veb** – full-stack web app (Java + Spring + JS)
+- **Pygame-fizioloska-animacija** – Python game/animation project
+- **HW assignments (C)** – low-level programming exercises
+
+👉 More projects coming soon – this profile is under active development.
