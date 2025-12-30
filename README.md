@@ -1,4 +1,4 @@
-# Hi, I'm Marija 
+# Hi, I'm Marija 👋
 
 Final-year **Computer Engineering student at RAF (Belgrade)**, passionate about software development and full-stack web applications.  
 Currently focused on Java / Spring, Angular, and cloud-style system design.
