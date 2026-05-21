@@ -1,4 +1,4 @@
-# Hi, I'm Marija 👋
+# Hi, I'm Marija 
 
 Final-year **Computer Engineering student at RAF (Belgrade)**, passionate about software development and full-stack web applications.  
 Currently focused on Java / Spring, Angular, and cloud-style system design.
@@ -25,19 +25,19 @@ Currently focused on Java / Spring, Angular, and cloud-style system design.
 
 ### 🔹 RAF Event Booker — Full-stack Web Platform  
 Spring Boot backend + public events platform with comments, reactions, categories and admin EMS module.  
-👉 https://github.com/MarijaEric5122/raf-event-booker-web-platform
+  https://github.com/MarijaEric5122/raf-event-booker-web-platform
 
 ### 🔹 RAF Cloud Manager — Angular Frontend 
 Users & machines management UI with mock data — backend in Spring (JWT + scheduling + WebSockets) in progress.  
-👉 https://github.com/MarijaEric5122/raf-cloud-manager-angular
+  https://github.com/MarijaEric5122/raf-cloud-manager-angular
 
 ### 🔹 Sports Reservations Microservice (Spring + MySQL)  
 Domain-driven backend service for courts, trainers, sports groups and training/competition time slots.  
-👉 https://github.com/MarijaEric5122/sports-reservations-microservice
+  https://github.com/MarijaEric5122/sports-reservations-microservice
 
 ### 🔹 Skript jezici — Project Collection (Vue + API + JWT)  
 Multiple course projects including collaborative pixel-draw app and museum API web client.  
-👉 https://github.com/MarijaEric5122/skript-jezici-projects-raf
+  https://github.com/MarijaEric5122/skript-jezici-projects-raf
 
 ---
 
@@ -50,7 +50,7 @@ Multiple course projects including collaborative pixel-draw app and museum API w
 
 ## 📫 Contact
 
-Feel free to reach out 🙂
+Feel free to reach out 
 
 - LinkedIn — https://www.linkedin.com/in/marija-eric-2079133a3
 - GitHub — https://github.com/MarijaEric5122
